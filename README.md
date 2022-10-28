@@ -2,7 +2,7 @@
 
 <ul>
     <li>👩‍💻 I'm currently working on private projects</li>
-    <li>🧠 I'm currently learning Front-End programming</li>
+    <li>🧠 I'm currently learning Front-End VueJS programming</li>
     <li>📫 How to contact me: <a href="mailto:feradourada@gmail.com">feradourada@gmail.com</a></li>
 </ul>
 
