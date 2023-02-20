@@ -20,6 +20,8 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
+    <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
+    <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
 </div><br>
 
 ## Working With
@@ -29,6 +31,8 @@
     <li>Html5</li>
     <li>Css3</li>
     <li>VueJS</li>
+    <li>PHP</li>
+    <li>MySQL</li>
     <li>Bootstrap</li>
 </ul>
     
