@@ -3,7 +3,7 @@
 <ul>
     <li>👩‍💻 I'm currently working on private projects</li>
     <li>🧠 I'm currently learning Front-End VueJS programming</li>
-    <li>📫 How to contact me: <a href="mailto:feradourada@gmail.com">Gmail</a></li>
+    <li>📫 How to contact me: <a href="mailto:mateusnmaranhao@gmail.com">Gmail</a></li>
 </ul>
 
 <div align="center"><br>
