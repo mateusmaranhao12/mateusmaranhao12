@@ -42,5 +42,6 @@
 
 <div><br>
     <a href="https://instagram.com/mateus_maranhao12"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="mailto:feradourada@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:mateusnmaranhao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/mateus-maranh%C3%A3o-24938b230/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-     badge&logo=linkedin&logoColor=white"/></a>
 </div>
