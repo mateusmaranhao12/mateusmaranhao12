@@ -7,7 +7,7 @@
 </ul>
 
 <div align="center"><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=mateusmaranhao12&theme=outrun&title_color=yellow&text_color=#E2A8FF" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mateusmaranhao12&theme=outrun&title_color=yellow&text_color=#E2A8FF&icon_color=yellow" />
 </div><br>
 
 ## Some Technologies
