@@ -7,7 +7,7 @@
 </ul>
 
 <div align="center"><br>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateusmaranhao12&show_icons=true&theme=dracula&count_private=true" />
+        <img height="130em" src="https://github-readme-stats.vercel.app/api?username=mateusmaranhao12&show_icons=true&theme=dracula&count_private=true" />
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmaranhao12&layout=compact&langs_count=6&theme=dracula" />
 </div><br>
 
