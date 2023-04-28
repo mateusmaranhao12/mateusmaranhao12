@@ -8,7 +8,7 @@
 
 <div align="center"><br>
     <img height="160mm" src="https://github-readme-stats.vercel.app/api?username=mateusmaranhao12&show_icons=true&theme=transparent" />
-    <img height="160mm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmaranhao12&layout=compact&theme=outrun" />
+    <img height="160mm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmaranhao12&layout=compact" />
 </div><br>
 
 ## Some Technologies
