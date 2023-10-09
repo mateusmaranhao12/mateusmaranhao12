@@ -31,6 +31,7 @@
 ## Working With
 <ul>
     <li>JavaScript</li>
+    <li>TypeScript</li>
     <li>Sass</li>
     <li>Html5</li>
     <li>Css3</li>
@@ -38,6 +39,7 @@
     <li>PHP</li>
     <li>MySQL</li>
     <li>Bootstrap</li>
+    <li>Git</li>
     <li>GitHub</li>
 </ul>
     
