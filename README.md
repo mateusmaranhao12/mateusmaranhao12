@@ -1,8 +1,7 @@
 # Hi, I'm Mateus Maranhão! 👋
 
 <ul>
-    <li>👩‍💻 I'm currently working on private projects</li>
-    <li>🧠 I'm currently learning Front-End VueJS programming</li>
+    <li>👩‍💻 Full-Stack Developer</li>
     <li>📫 How to contact me: <a href="mailto:mateusnmaranhao@gmail.com">Gmail</a></li>
 </ul>
 
