@@ -35,6 +35,7 @@
     <li>Html5</li>
     <li>Css3</li>
     <li>VueJS</li>
+    <li>React</li>
     <li>PHP</li>
     <li>MySQL</li>
     <li>Bootstrap</li>
